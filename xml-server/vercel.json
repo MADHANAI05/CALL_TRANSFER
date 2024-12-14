@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "src": "/Response.xml",
+      "dest": "/Response.xml",
+      "headers": {
+        "Content-Type": "application/xml"
+      }
+    }
+  ]
+}
